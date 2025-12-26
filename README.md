@@ -4,6 +4,8 @@ This project is a simple interactive web application that demonstrates dynamic m
 
 Live Demo ->  https://sreeramyerabati.github.io/Image-resizer/
 
+![Image Resizer Screenshot](screenshots/screenshot.png)
+
 
 Project Description:
 The Image Resizer project focuses on understanding how JavaScript interacts with HTML elements in real time. Users can control the width of an image using plus and minus buttons. The width changes in fixed steps, and warning messages are displayed when the image reaches its minimum or maximum allowed size.
